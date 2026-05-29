@@ -3,10 +3,11 @@ export const home = {
     eyebrow: "Portfolio",
     headline: "Atoms to absence",
     subhead:
-      "Interfaces, artifacts, and systems that connect embodied presence with what remains when someone is far away.",
+      "Research engineer working on systems that connect AI, physical sensing, and human memory across time.",
   },
   selectedWork: {
     title: "Selected work",
-    description: "Projects oriented toward tangible interaction, memory, and mediated presence.",
+    description:
+      "Research and engineering across NTU, the MIT Julia Lab, InterSystems, and industry roles in Singapore.",
   },
 } as const;
